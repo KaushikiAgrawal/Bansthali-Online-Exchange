@@ -3,10 +3,11 @@ An OLX type website for the students of a college to purchase and sell second ha
 
 A website created for the students of a particular college to sell and purchase second hand items like bedding,kettle,table fan etc.
 
-Technology Used:-
+# Technology Used:-
 
-Front-end:- HTML, CSS and JavaScript
-Backend:- PHP, MySQL, JavaScript
+Front-end:- HTML, CSS and JavaScript.
+
+Backend:- PHP, MySQL, JavaScript.
 
 Wamp Server version- 1.7.0
 
@@ -43,3 +44,11 @@ The buyers can add items to their wishlist and can contact the seller for buying
 # Buyer's Wishlist
 ![](Screenshot/WishList.JPG)
 
+# Updating the posted AD 
+![](Screenshot/updateAd.JPG)
+
+# Available searched items
+![](Screenshot/AvailableItemsOnsearch.JPG)
+
+# User Feedback
+![](Screenshot/Review.JPG)
