@@ -26,7 +26,30 @@ The seller can see all the posted ADs by him/her and can modify or delete it any
 The buyers can add items to their wishlist and can contact the seller for buying it.
 
 # Pages
+
 [HomePage](project/homepage.php)
+
+[SignUp](project/registration.php)
+
+[Login](project/login1.php.php)
+
+[DashBoard](project/homepage1.php)
+
+[PostNewAd](project/prod_details.php)
+
+[UpdateAd](project/update.php)
+
+[SearchedItem](project/productview.php)
+
+[UserProfile](project/profile.php)
+
+[PostedAd](project/myadd.php.php)
+
+[BuyersWishlist](project/wishlist.php)
+
+[FeedbackForm](project/feedback.php)
+
+[UserFeedback](project/review.php)
 
 # Homepage
 ![](Screenshot/Homepage.JPG)
