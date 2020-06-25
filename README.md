@@ -23,3 +23,6 @@ Posting AD: After getting logged in, the seller can post AD of the items.
 The seller can see all the posted ADs by him/her and can modify or delete it any time.
 
 The buyers can add items to their wishlist and can contact the seller for buying it.
+
+#Pages
+![](Screenshot/homepage.jpg)
