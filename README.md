@@ -1,4 +1,4 @@
-# Bansthali-Online-Exchange
+# Banasthali-Online-Exchange
 An OLX type website for the students of a college to purchase and sell second hand items.
 
 A website created for the students of a particular college to sell and purchase second hand items like bedding,kettle,table fan etc.
