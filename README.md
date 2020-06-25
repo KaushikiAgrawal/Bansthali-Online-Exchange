@@ -8,7 +8,13 @@ Technology Used:-
 Front-end:- HTML, CSS and JavaScript
 Backend:- PHP, MySQL, JavaScript
 
+Wamp Server version- 1.7.0
 
+Server Configuration Apache version : Apache/2.2.4 (Win32)
+
+PHP version : 5.2.1
+
+MySQL version : 5.0.27-community-nt
 
 Homepage: The starting page of the website where a user can browse through the available second hand items. To post an Ad for the item he/she should
 login as an authenticated user. 
