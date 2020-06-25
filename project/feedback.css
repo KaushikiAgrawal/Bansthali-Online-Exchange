@@ -1,0 +1,53 @@
+.feedbackform {
+width: 460px;
+font-family: arial;
+border: 1px solid #AAA;
+padding:10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+text-align:center;
+}
+.feedbackformheader {
+font-size:18px;
+font-weight:bold;
+padding-top:10px;
+padding-bottom:10px;
+text-align:left;
+}
+body{
+	
+	background-image:url("img2.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+.feedback h3{
+    font-size:18px;
+    line-height:22px;
+    border-bottom:1px solid #000;
+    margin-bottom:11px;
+    padding-bottom:4px;
+} 
+.feedback_textarea{
+    font-size:14px;
+    font-family: arial, sans-serif;
+	width:100%;
+	height:180px;
+	border:1px solid #BBB;
+	
+}
+
+div.feedback-default {
+    padding:20px;   
+    font-family: arial, sans-serif;
+}
+
+.feedback_button{
+	width:400px;
+	height:40px;
+	 background-color:#e7e7e7; color: black;; 
+}
+
+

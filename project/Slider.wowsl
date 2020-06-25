@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>27</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>carousel_basic</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/vernisage/</ImageTemplate>
+            <ImageTemplateName>Vernisage</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/User/Documents/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/User/Documents</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#959695</TemplateColor>
+            <TemplateFont>Economica</TemplateFont>
+            <TemplateName>vernisage</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/wamp/www/project/books.jpg</url>
+                <title>books</title>
+                <filesize>40661</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/Bed Table.png</url>
+                <title>Bed Table</title>
+                <filesize>57091</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/Calculator1.jpeg</url>
+                <title>Calculator1</title>
+                <filesize>312171</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/book.jpg</url>
+                <title>book</title>
+                <filesize>304258</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/Digit calculator.jpeg</url>
+                <title>Digit calculator</title>
+                <filesize>68680</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/Glass Kettle.jpg</url>
+                <title>Glass Kettle</title>
+                <filesize>28317</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/Hercules cycle.jpg</url>
+                <title>Hercules cycle</title>
+                <filesize>19371</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/Study Table.jpg</url>
+                <title>Study Table</title>
+                <filesize>14928</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/PlateSet.jpg</url>
+                <title>PlateSet</title>
+                <filesize>16594</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/Trunk.jpg</url>
+                <title>Trunk</title>
+                <filesize>13135</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/project/fan2.jpg</url>
+                <title>fan2</title>
+                <filesize>38095</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
