@@ -26,7 +26,7 @@ The seller can see all the posted ADs by him/her and can modify or delete it any
 The buyers can add items to their wishlist and can contact the seller for buying it.
 
 # Pages
-[HomePage](https://github.com/KaushikiAgrawal/Bansthali-Online-Exchange/project/homepage.php )
+[HomePage](project/homepage.php)
 
 # Homepage
 ![](Screenshot/Homepage.JPG)
