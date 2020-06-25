@@ -1,15 +1,9 @@
 		      BANASTHALI ONLINE EXCHANGE(BOX)
-			       PROJECT ID-03
-				
-		          1.KAUSHIKI AGRAWAL(7577)
-		          2.NANDINI VERMA(7589)
-		          3.RISHITA GOYAL(7608)
-		          4.RIYA KUMAWAT(7610)
 
-We are going to develop a website for local community(banasthali) with a plateform
+A website for local community(banasthali) with a platform
 that help the students to buy and sell second hand items like-trunk,bicycle,books etc.
-we banasthalites always find it difficult to sell or purchase second hand items because 
-we have to roam from hostel to hostel.This website will solve this problem and will patch 
+Hostellers always find it difficult to sell or purchase second hand items because 
+they have to roam from hostel to hostel.This website will solve this problem and will patch 
 up buyers and seller within banasthali.
 
 FUNCTIONALITY OF OUR WEBSITE  :-
