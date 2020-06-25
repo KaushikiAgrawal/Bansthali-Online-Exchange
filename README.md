@@ -9,10 +9,11 @@ Front-end:- HTML, CSS and JavaScript
 Backend:- PHP, MySQL, JavaScript
 
 
+
 Homepage: The starting page of the website where a user can browse through the available second hand items. To post an Ad for the item he/she should
 login as an authenticated user. 
 
 Posting AD: After getting logged in, the seller can post AD of the items.
-The seller can see all the posted ADs by him/her and can modify it or delete it any time.
+The seller can see all the posted ADs by him/her and can modify or delete it any time.
 
-The buyer can add the 
+The buyers can add items to their wishlist and can contact the seller for buying it.
