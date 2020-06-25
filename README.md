@@ -24,5 +24,22 @@ The seller can see all the posted ADs by him/her and can modify or delete it any
 
 The buyers can add items to their wishlist and can contact the seller for buying it.
 
-#Pages
-![](Screenshot/homepage.jpg)
+# Homepage
+![](Screenshot/Homepage.JPG)
+
+# Signup Page
+![](Screenshot/Signup.JPG)
+
+# Login page
+![](Screenshot/Login.JPG)
+
+
+# User's Dashboard
+![](Screenshot/PostAd.JPG)
+
+# Posting Ad
+![](Screenshot/PostAd1.JPG )
+
+# Buyer's Wishlist
+![](Screenshot/WishList.JPG)
+
